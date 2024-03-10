@@ -9,12 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://dl.openseauserdata.com/cache/originImage/files/88bd4aaa3b0377ce176a38c3af5e4227.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
